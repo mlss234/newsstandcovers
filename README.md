@@ -1,6 +1,6 @@
 # Permanent URL for newsstand website media files
 
-<h3>Magazine Covers</h3></br>
+<h3>Magazine Covers</h3>
 FORBES - https://raw.githubusercontent.com/mlss234/newsstandcovers/master/shelfcover/FORBES.jpg</br>
 FORTUNE - https://raw.githubusercontent.com/mlss234/newsstandcovers/master/shelfcover/FORTUNE.jpg</br>
 THE ECONOMIST - https://raw.githubusercontent.com/mlss234/newsstandcovers/master/shelfcover/ECONOMIST.jpg</br>
@@ -18,7 +18,7 @@ Disney Junior - https://raw.githubusercontent.com/mlss234/newsstandcovers/master
 Disney Princess - https://raw.githubusercontent.com/mlss234/newsstandcovers/master/shelfcover/PRINCESS.jpg</br>
 Marvel Heroes - https://raw.githubusercontent.com/mlss234/newsstandcovers/master/shelfcover/MARVEL.jpg</br></br>
 
-<h3>Promotional Banners</h3></br>
+<h3>Promotional Banners</h3>
 https://raw.githubusercontent.com/mlss234/newsstandcovers/master/promobanner/promo1_out.gif</br>
 https://raw.githubusercontent.com/mlss234/newsstandcovers/master/promobanner/promo1_in.jpg</br></br>
 
