@@ -17,10 +17,17 @@ Disney Princess - https://raw.githubusercontent.com/mlss234/newsstandcovers/mast
 Marvel Heroes - https://raw.githubusercontent.com/mlss234/newsstandcovers/master/shelfcover/MARVEL.jpg</br></br>
 
 <h3>Promotional Banners</h3>
-https://raw.githubusercontent.com/mlss234/newsstandcovers/master/promobanner/promo1_out.gif</br>
-https://raw.githubusercontent.com/mlss234/newsstandcovers/master/promobanner/promo1_in.jpg</br></br>
-https://raw.githubusercontent.com/mlss234/newsstandcovers/master/promobanner/promo2_out.gif</br>
-https://raw.githubusercontent.com/mlss234/newsstandcovers/master/promobanner/promo2_in.jpg</br></br>
-https://raw.githubusercontent.com/mlss234/newsstandcovers/master/promobanner/promo3_out.gif</br>
-https://raw.githubusercontent.com/mlss234/newsstandcovers/master/promobanner/promo3_in.jpg</br></br>
+https://raw.githubusercontent.com/mlss234/newsstandcovers/master/promobanner/PROD/promo1_out.gif</br>
+https://raw.githubusercontent.com/mlss234/newsstandcovers/master/promobanner/PROD/promo1_in.jpg</br></br>
+https://raw.githubusercontent.com/mlss234/newsstandcovers/master/promobanner/PROD/promo2_out.gif</br>
+https://raw.githubusercontent.com/mlss234/newsstandcovers/master/promobanner/PROD/promo2_in.jpg</br></br>
+https://raw.githubusercontent.com/mlss234/newsstandcovers/master/promobanner/PROD/promo3_out.gif</br>
+https://raw.githubusercontent.com/mlss234/newsstandcovers/master/promobanner/PROD/promo3_in.jpg</br></br>
+
+https://raw.githubusercontent.com/mlss234/newsstandcovers/master/promobanner/STAG/promo1_out.gif</br>
+https://raw.githubusercontent.com/mlss234/newsstandcovers/master/promobanner/STAG/promo1_in.jpg</br></br>
+https://raw.githubusercontent.com/mlss234/newsstandcovers/master/promobanner/STAG/promo2_out.gif</br>
+https://raw.githubusercontent.com/mlss234/newsstandcovers/master/promobanner/STAG/promo2_in.jpg</br></br>
+https://raw.githubusercontent.com/mlss234/newsstandcovers/master/promobanner/STAG/promo3_out.gif</br>
+https://raw.githubusercontent.com/mlss234/newsstandcovers/master/promobanner/STAG/promo3_in.jpg</br></br>
 
