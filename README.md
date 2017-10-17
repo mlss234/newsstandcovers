@@ -33,3 +33,7 @@ https://raw.githubusercontent.com/mlss234/newsstandcovers/master/promobanner/STA
 https://raw.githubusercontent.com/mlss234/newsstandcovers/master/promobanner/STAG/promo3_out.gif</br>
 https://raw.githubusercontent.com/mlss234/newsstandcovers/master/promobanner/STAG/promo3_in.jpg</br></br>
 
+<h3>Additional Banners</h3>
+https://raw.githubusercontent.com/mlss234/newsstandcovers/master/extrabanner/magzterGold-448x420.png</br>
+
+
