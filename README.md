@@ -6,8 +6,10 @@ FORTUNE - https://raw.githubusercontent.com/mlss234/newsstandcovers/master/shelf
 THE ECONOMIST - https://raw.githubusercontent.com/mlss234/newsstandcovers/master/shelfcover/ECONOMIST.jpg</br>
 The New York Times - https://raw.githubusercontent.com/mlss234/newsstandcovers/master/shelfcover/NYT.jpg</br>
 The Straits Times - https://raw.githubusercontent.com/mlss234/newsstandcovers/master/shelfcover/ST.jpg</br>
+ST X Spotify - https://raw.githubusercontent.com/mlss234/newsstandcovers/master/shelfcover/ST-MUSIC.jpg</br>
 TIME - https://raw.githubusercontent.com/mlss234/newsstandcovers/master/shelfcover/TIME.jpg</br>
-The Wall Street Journal - https://raw.githubusercontent.com/mlss234/newsstandcovers/master/shelfcover/TWSJ.jpg</br></br>
+The Wall Street Journal - https://raw.githubusercontent.com/mlss234/newsstandcovers/master/shelfcover/TWSJ.jpg</br>
+Magzter Gold - https://raw.githubusercontent.com/mlss234/newsstandcovers/master/shelfcover/MAGZTER-GOLD.jpg</br>
 8 Days - https://raw.githubusercontent.com/mlss234/newsstandcovers/master/shelfcover/8DAYS.jpg</br>
 ELLE Singapore - https://raw.githubusercontent.com/mlss234/newsstandcovers/master/shelfcover/ELLE.jpg</br>
 i-Weekly - https://raw.githubusercontent.com/mlss234/newsstandcovers/master/shelfcover/IWEEKLY.jpg</br></br>
